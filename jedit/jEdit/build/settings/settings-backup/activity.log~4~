@@ -1,0 +1,203 @@
+Log file created on Tue Oct 20 12:00:45 CDT 2015
+IMPORTANT:
+Because updating this file after every log message would kill
+performance, it will be *incomplete* unless you invoke the
+Utilities->Troubleshooting->Update Activity Log on Disk command!
+12:00:45 PM [Main Thread] [message] Log: When reporting bugs, please include the following information:
+12:00:45 PM [Main Thread] [message] Log: java.version=1.6.0_45
+12:00:45 PM [Main Thread] [message] Log: java.vm.version=R28.2.7-7-155314-1.6.0_45-20130329-0646-windows-x86_64
+12:00:45 PM [Main Thread] [message] Log: java.runtime.version=1.6.0_45-b06
+12:00:45 PM [Main Thread] [message] Log: java.vendor=Oracle Corporation
+12:00:45 PM [Main Thread] [message] Log: java.compiler=null
+12:00:45 PM [Main Thread] [message] Log: os.name=Windows 7
+12:00:45 PM [Main Thread] [message] Log: os.version=6.1
+12:00:45 PM [Main Thread] [message] Log: os.arch=amd64
+12:00:45 PM [Main Thread] [message] Log: user.home=C:\Users\SACHELLA
+12:00:45 PM [Main Thread] [message] Log: java.home=D:\java\R28.2\jre
+12:00:45 PM [Main Thread] [message] Log: java.class.path=D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\jedit.jar
+12:00:45 PM [Main Thread] [debug] MiscUtilities: Saving backup of file "D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\settings\activity.log" to "D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\settings\settings-backup\activity.log~1~"
+12:00:46 PM [Main Thread] [notice] jEdit: jEdit version 4.3
+12:00:46 PM [Main Thread] [message] jEdit: Settings directory is D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\settings
+12:00:46 PM [Main Thread] [message] jEdit: jEdit home directory is D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build
+12:00:46 PM [Main Thread] [debug] SplashScreen: init:16ms
+12:00:46 PM [Main Thread] [debug] SplashScreen: init system properties:8ms
+12:00:46 PM [Main Thread] [message] BeanShell: Beanshell Init
+12:00:46 PM [Main Thread] [debug] SplashScreen: init beanshell:78ms
+12:00:46 PM [Main Thread] [debug] SplashScreen: loading site properties:2ms
+12:00:46 PM [Main Thread] [debug] SplashScreen: loading user properties:1ms
+12:00:46 PM [Main Thread] [debug] GUIUtilities: Icon theme set to: tango
+12:00:46 PM [Main Thread] [debug] GUIUtilities: Loading icon theme from: jeditresource:/org/gjt/sp/jedit/icons/themes/tango/
+12:00:46 PM [Main Thread] [debug] SplashScreen: init GUI:16ms
+12:00:46 PM [Main Thread] [debug] EditServer: jEdit server started on port 57451
+12:00:46 PM [Main Thread] [debug] EditServer: Authorization key is 1854270447
+12:00:46 PM [Main Thread] [debug] SplashScreen: init server:24ms
+12:00:46 PM [Main Thread] [debug] SplashScreen: init look and feel:7ms
+12:00:46 PM [Main Thread] [debug] SplashScreen: init VFS Manager:3ms
+12:00:46 PM [Main Thread] [debug] ActionSet: Loading actions from jar:file:/D:/UTD/Software_Maintenance/jEdit/jedit.tar/jedit/jEdit/build/jedit.jar!/org/gjt/sp/jedit/actions.xml
+12:00:47 PM [Main Thread] [debug] DockableWindowManager: Loading dockables from jar:file:/D:/UTD/Software_Maintenance/jEdit/jedit.tar/jedit/jEdit/build/jedit.jar!/org/gjt/sp/jedit/dockables.xml
+12:00:47 PM [Main Thread] [debug] EditBus: SearchSettingsChanged[source=null]
+12:00:47 PM [Main Thread] [debug] SplashScreen: init resources:253ms
+12:00:47 PM [Main Thread] [notice] jEdit: Loading plugins from D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\jars
+12:00:47 PM [Main Thread] [notice] jEdit: Loading plugins from D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\settings\jars
+12:00:47 PM [Main Thread] [debug] SplashScreen: init plugins:7ms
+12:00:47 PM [Main Thread] [debug] SplashScreen: init history model:2ms
+12:00:47 PM [Main Thread] [debug] SplashScreen: init buffer history:1ms
+12:00:47 PM [Main Thread] [debug] SplashScreen: init killring:2ms
+12:00:47 PM [Main Thread] [debug] jEdit: SOCKS proxy disabled
+12:00:47 PM [Main Thread] [debug] jEdit: HTTP proxy disabled
+12:00:47 PM [Main Thread] [debug] EditBus: PropertiesChanged[source=null]
+12:00:47 PM [Main Thread] [debug] SplashScreen: init various properties:17ms
+12:00:47 PM [Main Thread] [message] jEdit: Loading mode catalog file D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\modes\catalog
+12:00:47 PM [Main Thread] [message] jEdit: Loading mode catalog file D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\settings\modes\catalog
+12:00:47 PM [Main Thread] [debug] SplashScreen: init modes:21ms
+12:00:47 PM [Main Thread] [debug] SplashScreen: activate plugins:0ms
+12:00:47 PM [Main Thread] [debug] Macros: Registered beanshell macro handler
+12:00:47 PM [Main Thread] [debug] EditBus: DynamicMenuChanged[menu=macros,source=null]
+12:00:47 PM [Main Thread] [message] BeanShell: Running script D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\startup\startup.bsh
+12:00:47 PM [Main Thread] [debug] String: BeanShell interpreter version 2.0b4-jedit
+12:00:47 PM [Main Thread] [debug] SplashScreen: init macros:280ms
+12:00:47 PM [Main Thread] [debug] SplashScreen: init macros:281ms
+12:00:47 PM [Main Thread] [debug] SplashScreen: init macros:281ms
+12:00:47 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=org.gjt.sp.jedit.View[inactive],source=Untitled-1 (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\)]
+12:00:47 PM [AWT-EventQueue-0] [debug] BufferSet: 10272469 addBufferAt(Untitled-1 (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\),-1)
+12:00:47 PM [AWT-EventQueue-0] [debug] BufferSet: 10272469: Buffer added Untitled-1 (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\) at 0
+12:00:47 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=org.gjt.sp.jedit.View[inactive],source=Untitled-1 (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\)]
+12:00:47 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive,global]]
+12:00:47 PM [AWT-EventQueue-0] [debug] BufferSet: 10272469: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive,global]
+12:00:47 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFERSET_CHANGED,source=org.gjt.sp.jedit.EditPane[inactive,global]]
+12:00:47 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive,global]]
+12:00:48 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive,global]]
+12:00:48 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CREATED,source=org.gjt.sp.jedit.View[active]]
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer: java.io.FileNotFoundException: D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\doc\welcome.html (The system cannot find the path specified)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.io.FileInputStream.open(Native Method)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.io.FileInputStream.<init>(FileInputStream.java:120)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.io.FileInputStream.<init>(FileInputStream.java:79)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:70)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:161)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at javax.swing.JEditorPane.getStream(JEditorPane.java:811)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at javax.swing.JEditorPane.setPage(JEditorPane.java:417)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at org.gjt.sp.jedit.help.HelpViewer.gotoURL(HelpViewer.java:264)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at org.gjt.sp.jedit.help.HelpViewer.<init>(HelpViewer.java:178)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at org.gjt.sp.jedit.jEdit.newView(jEdit.java:2443)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at org.gjt.sp.jedit.jEdit.newView(jEdit.java:2387)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at org.gjt.sp.jedit.jEdit.newView(jEdit.java:2363)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at org.gjt.sp.jedit.jEdit$6.run(jEdit.java:3853)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:209)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:672)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.awt.EventQueue.access$400(EventQueue.java:81)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.awt.EventQueue$2.run(EventQueue.java:633)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.awt.EventQueue$2.run(EventQueue.java:631)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:87)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.awt.EventQueue.dispatchEvent(EventQueue.java:642)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:269)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:184)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:174)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:169)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:161)
+12:00:48 PM [AWT-EventQueue-0] [error] HelpViewer:  at java.awt.EventDispatchThread.run(EventDispatchThread.java:122)
+12:00:48 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+12:00:49 PM [AWT-EventQueue-0] [debug] JEditTextArea: InputMethodSupport is activated
+12:00:52 PM [AWT-EventQueue-0] [debug] EditBus: EditorStarted[source=null]
+12:00:52 PM [jEdit I/O #1] [debug] WorkThread: Work request thread starting [jEdit I/O #1]
+12:00:52 PM [jEdit I/O #1] [debug] WorkThread: Running in work thread: [id=4,run=org.gjt.sp.jedit.help.HelpTOCPanel$1@942f9b]
+12:00:52 PM [jEdit I/O #2] [debug] WorkThread: Work request thread starting [jEdit I/O #2]
+12:00:52 PM [jEdit I/O #3] [debug] WorkThread: Work request thread starting [jEdit I/O #3]
+12:00:52 PM [jEdit I/O #4] [debug] WorkThread: Work request thread starting [jEdit I/O #4]
+12:00:52 PM [AWT-EventQueue-0] [message] jEdit: Startup complete
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel: java.io.FileNotFoundException: D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\doc\news43\toc.xml (The system cannot find the path specified)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.io.FileInputStream.open(Native Method)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.io.FileInputStream.<init>(FileInputStream.java:120)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.io.FileInputStream.<init>(FileInputStream.java:79)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:70)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:161)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.net.URL.openStream(URL.java:1010)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel.loadTOC(HelpTOCPanel.java:208)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel.createTOC(HelpTOCPanel.java:162)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel.access$000(HelpTOCPanel.java:48)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel$1.run(HelpTOCPanel.java:103)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.util.WorkThread.doRequest(WorkThread.java:213)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.util.WorkThread.doRequests(WorkThread.java:180)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.util.WorkThread.run(WorkThread.java:154)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel: java.io.FileNotFoundException: D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\doc\users-guide\toc.xml (The system cannot find the path specified)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.io.FileInputStream.open(Native Method)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.io.FileInputStream.<init>(FileInputStream.java:120)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.io.FileInputStream.<init>(FileInputStream.java:79)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:70)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:161)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.net.URL.openStream(URL.java:1010)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel.loadTOC(HelpTOCPanel.java:208)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel.createTOC(HelpTOCPanel.java:163)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel.access$000(HelpTOCPanel.java:48)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel$1.run(HelpTOCPanel.java:103)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.util.WorkThread.doRequest(WorkThread.java:213)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.util.WorkThread.doRequests(WorkThread.java:180)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.util.WorkThread.run(WorkThread.java:154)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel: java.io.FileNotFoundException: D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\doc\FAQ\toc.xml (The system cannot find the path specified)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.io.FileInputStream.open(Native Method)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.io.FileInputStream.<init>(FileInputStream.java:120)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.io.FileInputStream.<init>(FileInputStream.java:79)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:70)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:161)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.net.URL.openStream(URL.java:1010)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel.loadTOC(HelpTOCPanel.java:208)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel.createTOC(HelpTOCPanel.java:164)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel.access$000(HelpTOCPanel.java:48)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel$1.run(HelpTOCPanel.java:103)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.util.WorkThread.doRequest(WorkThread.java:213)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.util.WorkThread.doRequests(WorkThread.java:180)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.util.WorkThread.run(WorkThread.java:154)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel: java.io.FileNotFoundException: D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\doc\api\toc.xml (The system cannot find the path specified)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.io.FileInputStream.open(Native Method)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.io.FileInputStream.<init>(FileInputStream.java:120)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.io.FileInputStream.<init>(FileInputStream.java:79)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:70)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:161)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at java.net.URL.openStream(URL.java:1010)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel.loadTOC(HelpTOCPanel.java:208)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel.createTOC(HelpTOCPanel.java:198)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel.access$000(HelpTOCPanel.java:48)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.jedit.help.HelpTOCPanel$1.run(HelpTOCPanel.java:103)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.util.WorkThread.doRequest(WorkThread.java:213)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.util.WorkThread.doRequests(WorkThread.java:180)
+12:00:52 PM [jEdit I/O #1] [error] HelpTOCPanel:  at org.gjt.sp.util.WorkThread.run(WorkThread.java:154)
+12:00:52 PM [AWT-EventQueue-0] [notice] jEdit$3: Loading edit mode D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\modes\text.xml
+12:00:52 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\)]
+12:00:52 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=org.gjt.sp.jedit.View[active],source=Untitled-1 (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\)]
+12:00:58 PM [AWT-EventQueue-0] [debug] ActionSet: Loading actions from jar:file:/D:/UTD/Software_Maintenance/jEdit/jedit.tar/jedit/jEdit/build/jedit.jar!/org/gjt/sp/jedit/browser.actions.xml
+12:00:58 PM [jEdit I/O #2] [debug] WorkThread: Running in work thread: [id=5,run=org.gjt.sp.jedit.browser.BrowserIORequest[type=LIST_DIRECTORY,vfs=org.gjt.sp.jedit.io.FileVFS@99e359,path1=D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\,path2=null]]
+12:01:01 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+12:01:02 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=org.gjt.sp.jedit.View[active],source=build.xml (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\)]
+12:01:02 PM [AWT-EventQueue-0] [debug] BufferSet: 10272469 addBufferAt(build.xml (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\),-1)
+12:01:02 PM [jEdit I/O #4] [debug] WorkThread: Running in work thread: [id=8,run=org.gjt.sp.jedit.bufferio.BufferLoadRequest[build.xml (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\)]]
+12:01:02 PM [AWT-EventQueue-0] [debug] BufferSet: 10272469: Buffer added build.xml (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\) at 0
+12:01:02 PM [AWT-EventQueue-0] [debug] BufferSetManager: removeBuffer(BufferSet[nbBuffers=2],Untitled-1 (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\))
+12:01:02 PM [AWT-EventQueue-0] [debug] BufferSet: 10272469: Buffer removed Untitled-1 (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\)
+12:01:02 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active,global]]
+12:01:02 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active,global]]
+12:01:02 PM [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:Untitled-1 (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\) is in no bufferSet anymore, closing it
+12:01:02 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CLOSING,view=null,source=Untitled-1 (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\)]
+12:01:02 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CLOSED,view=null,source=Untitled-1 (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\)]
+12:01:02 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=org.gjt.sp.jedit.View[active],source=build.xml (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\)]
+12:01:02 PM [AWT-EventQueue-0] [notice] jEdit$3: Loading edit mode D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\modes\xml.xml
+12:01:02 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=build.xml (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\)]
+12:01:02 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=org.gjt.sp.jedit.View[active],source=build.xml (D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\)]
+12:01:02 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+12:02:32 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+12:02:41 PM [jEdit I/O #3] [debug] WorkThread: Running in work thread: [id=11,run=org.gjt.sp.jedit.browser.BrowserIORequest[type=LIST_DIRECTORY,vfs=org.gjt.sp.jedit.io.FileVFS@99e359,path1=D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\,path2=null]]
+12:02:44 PM [AWT-EventQueue-0] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+12:02:44 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+12:03:07 PM [AWT-EventQueue-0] [debug] EditBus: SearchSettingsChanged[source=null]
+12:03:07 PM [AWT-EventQueue-0] [debug] EditBus: SearchSettingsChanged[source=null]
+12:03:07 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+12:03:10 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+12:03:12 PM [AWT-EventQueue-0] [debug] EditBus: EditorExitRequested[source=org.gjt.sp.jedit.View[active]]
+12:03:12 PM [AWT-EventQueue-0] [message] PerspectiveManager: Saving D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\settings\perspective.xml
+12:03:12 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\settings\perspective.xml" to "D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\settings\settings-backup\perspective.xml~1~"
+12:03:12 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+12:03:12 PM [AWT-EventQueue-0] [debug] EditBus: EditorExiting[source=null]
+12:03:12 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CLOSED,source=org.gjt.sp.jedit.View[active]]
+12:03:12 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+12:03:12 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=DESTROYED,source=org.gjt.sp.jedit.EditPane[active,global]]
+12:03:12 PM [AWT-EventQueue-0] [message] HistoryModel: Saving history
+12:03:12 PM [AWT-EventQueue-0] [message] BufferHistory: Saving D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\settings\recent.xml
+12:03:12 PM [AWT-EventQueue-0] [message] KillRing: Saving D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build\settings\killring.xml

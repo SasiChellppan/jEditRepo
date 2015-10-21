@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE PERSPECTIVE SYSTEM "perspective.dtd">
+<PERSPECTIVE>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE">D:\UTD\Software_Maintenance\jEdit\jedit.tar\jedit\jEdit\build.xml</BUFFER>
+<VIEW PLAIN="FALSE"><PANES>
+"D:\\UTD\\Software_Maintenance\\jEdit\\jedit.tar\\jedit\\jEdit\\build.xml" buffer "D:\\UTD\\Software_Maintenance\\jEdit\\jedit.tar\\jedit\\jEdit\\build.xml" buff "global" bufferset
+</PANES>
+<GEOMETRY X="305" Y="75" WIDTH="756" HEIGHT="589" EXT_STATE="0" />
+</VIEW>
+</PERSPECTIVE>

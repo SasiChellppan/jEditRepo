@@ -1,0 +1,8 @@
+[vfs.browser.path]
+D:\\UTD\\Software_Maintenance\\jEdit\\jedit.tar\\jedit\\jEdit
+[vfs.browser.filter]
+*\[^~#\]
+[action]
+close-buffer
+unscroll
+open-file
