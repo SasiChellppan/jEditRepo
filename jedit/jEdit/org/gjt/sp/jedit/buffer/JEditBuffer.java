@@ -2006,7 +2006,14 @@ public class JEditBuffer {
 	 * @since jEdit 2.7pre2
 	 */
 	public void unscroll(TextArea textArea) {
-		textArea.getComponent(3).hide();
+		if (textArea.getVerticalJScrollBar() != null
+				&& textArea.getVerticalJScrollBar().isVisible())
+			textArea.getVerticalJScrollBar().setVisible(false);
+
+		if (textArea.getVerticalJScrollBar() != null
+				&& textArea.getHorizontalJScrollBar().isVisible())
+			textArea.getHorizontalJScrollBar().setVisible(false);
+
 	} // }}}
 
 	// {{{ isTransactionInProgress() method

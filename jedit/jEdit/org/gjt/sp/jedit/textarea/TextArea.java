@@ -5097,9 +5097,11 @@ loop:		for(int i = lineNo - 1; i >= 0; i--)
 	private boolean quickCopy;
 
 	// JDiff, error list add stuff here
-	private final Box verticalBox;
-	private final JScrollBar vertical;
-	private final JScrollBar horizontal;
+	public final Box verticalBox;
+	public final JScrollBar vertical;
+	
+	
+	public final JScrollBar horizontal;
 
 	protected JEditBuffer buffer;
 
@@ -5127,6 +5129,17 @@ loop:		for(int i = lineNo - 1; i >= 0; i--)
 
 	private boolean joinNonWordChars;
 	private boolean ctrlForRectangularSelection;
+	
+	//Added for the change list #2
+		public JScrollBar getVerticalJScrollBar() {
+			return vertical;
+		}
+
+		public JScrollBar getHorizontalJScrollBar() {
+			return horizontal;
+		}
+
+		
 	//}}}
 
 	//{{{ _setHorizontalOffset() method
